@@ -39,8 +39,22 @@ It will be a ranking factor in 2021
 
 --
 
+# CrUX is a public BigQuery Project
+
+--
+
 <img src="chrux-report-connection.png" />
 
 --
 
 <img src="chrux-report-it.png" />
+
+--
+
+# Resources
+
+- https://web.dev/vitals/
+- https://developers.google.com/speed/docs/insights/v5/about
+- https://developers.google.com/speed/pagespeed/insights/?hl=en&url=http%3A%2F%2Fwww.autoscout24.de%2F
+- https://web.dev/chrome-ux-report-bigquery/
+- https://developers.google.com/web/tools/chrome-user-experience-report
